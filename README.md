@@ -1,2 +1,2 @@
 # Deep-Policy-Gradient-learning-for-cartpole-with-MATLAB
-Deep Policy Gradient learning for the OpenAI Gym cartpole game with MATLAB
+You can the explanation of the code at https://medium.com/p/072b4acbbaae.
